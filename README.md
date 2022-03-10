@@ -13,7 +13,7 @@ Enter build environment:
 ```docker run --rm -it -v %cd%:/root/env rgbos-buildenv```
 
 Build for x86:
-````make build-x86_64```
+```make build-x86_64```
 
 Emulate:
 ```qumu-system-x86_64 -cdrom dist/x86_64/kernel.iso```
