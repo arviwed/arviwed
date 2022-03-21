@@ -19,4 +19,4 @@ Emulate:
 ```qumu-system-x86_64 -cdrom dist/x86_64/kernel.iso```
 
 Remove the build-environment image:
-````docker rmi rgbos-buildenv -f```
+```docker rmi rgbos-buildenv -f```
