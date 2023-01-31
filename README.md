@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
 
-
-dd
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
