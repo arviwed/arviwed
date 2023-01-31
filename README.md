@@ -28,8 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-
 This project started because i got bored.
 Cloned the ubuntu kernel, 
 went through most pain ever. and tried to learn Assembly (never again)
