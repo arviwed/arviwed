@@ -1,20 +1,7 @@
 <a name="readme-top"></a>
 
 
-<br />
-<div align="center">
 
-  <p align="center">
-    Ubuntu kernel clone.
-    <br />
-    <a href="https://github.com/ArvidWedtstein/rgbOS"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ArvidWedtstein/rgbOS/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ArvidWedtstein/rgbOS/issues">Request Feature</a>
-  </p>
-</div>
 
 
 
