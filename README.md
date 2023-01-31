@@ -3,11 +3,6 @@
 
 <br />
 <div align="center">
-  <!--<a href="https://github.com/ArvidWedtstein/rgbOS">
-    <img src="static/images/ArvidLogo.png" alt="Logo" width="80" height="80">
-  </a>-->
-
-  <h3 align="center">RGBos</h3>
 
   <p align="center">
     Ubuntu kernel clone.
